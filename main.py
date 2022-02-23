@@ -55,3 +55,6 @@ while not IsFound:
     else:
         word = random.choice(words)
         print(f"Use ({word})")
+
+print("THANKS FOR USING THIS BOT")
+print("BOT CREATED BY FADILOMBI")
